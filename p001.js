@@ -1,4 +1,4 @@
-// Multiples of 3 and 5
+// Finding the sum of numbers for multiples of 3 and 5 between 1 and 1000
 
 // Declaring variables
 let sum = 0;

@@ -2,7 +2,6 @@
 Find the sum of all the even numbers
 */
 
-
 let sequence = [1,2];
 let i = sequence[sequence.length - 1];
 let sum = 0;
